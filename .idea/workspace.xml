@@ -2,48 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5ea2caa-e1b0-481d-bf82-fc915629207c" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/liangxu/bio/IOClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/liangxu/bio/IOServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/liangxu/collection/ComparableAndComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/liangxu/collection/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/liangxu/java8time/Java8Time.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/liangxu/lambda/Cook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/liangxu/lambda/Demo01Runnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/liangxu/lambda/Demo02LambdaRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/liangxu/lambda/Demo03ThreadInitParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/liangxu/lambda/Demo04ThreadNameless.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/liangxu/lambda/Demo05InvokeCook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/liangxu/lambda/RunnableImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liangxu/day20190904/javase001.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liangxu/day20190905/CollectionDemos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liangxu/day20190905/CollectionsDemo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liangxu/day20190906/BigDecimalDemo01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liangxu/day20190906/CollectionDemo01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liangxu/day20190906/DeadLockDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liangxu/day20190906/IteratorDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liangxu/day20190906/IteratorDemo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liangxu/day20190906/MultiThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liangxu/day20190906/Singleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liangxu/day20190906/ThreadDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liangxu/day20190906/ThreadLocalExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liangxu/day20190907/Converter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liangxu/day20190907/Formula.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liangxu/day20190907/Java8TimeDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liangxu/day20190907/Lambda4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liangxu/day20190907/LambdaDemo01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liangxu/day20190907/LambdaDemo02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liangxu/day20190907/PredicateDemo01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liangxu/day20190907/StreamDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liangxu/day20190907/StreamDemo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liangxu/day20190907/StreamDemo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liangxu/day20190904/javase001.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liangxu/day20190905/CollectionDemos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liangxu/day20190905/CollectionsDemo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liangxu/day20190906/BigDecimalDemo01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liangxu/day20190906/CollectionDemo01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liangxu/day20190906/IteratorDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liangxu/day20190906/IteratorDemo2.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -202,7 +161,7 @@
       <workItem from="1572745640777" duration="3198000" />
       <workItem from="1573954459947" duration="1858000" />
       <workItem from="1573957797704" duration="3000" />
-      <workItem from="1576066930759" duration="4503000" />
+      <workItem from="1576066930759" duration="5259000" />
     </task>
     <servers />
   </component>
